@@ -5,7 +5,7 @@ Some repo you should visit:
 
 - Main repo: [LunaticSea/LunaticSea](https://github.com/LunaticSea/LunaticSea/)
 - Translations: [LunaticSea/translation](https://github.com/LunaticSea/translation)
-- Lavalink wrapper: [LunaticSea/lunalink](https://github.com/LunaticSea/lunalink)
+- Lavalink wrapper: [LunaticSea/Lunalink](https://github.com/LunaticSea/Lunalink)
 - Modded Discordia: [LunaticSea/Discordia](https://github.com/LunaticSea/Discordia)
 - Nightly Builds: [LunaticSea/nightly](https://github.com/LunaticSea/nightly)
 - Alternative for Lavalink (Closed till I have time): [LunaticSea/LunaStream](https://github.com/LunaticSea/LunaStream)
