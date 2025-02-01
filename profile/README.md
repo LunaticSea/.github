@@ -8,7 +8,7 @@ Some repo you should visit:
 - Lavalink wrapper: [LunaticSea/Lunalink](https://github.com/LunaticSea/Lunalink)
 - Modded Discordia: [LunaticSea/Discordia](https://github.com/LunaticSea/Discordia)
 - Nightly Builds: [LunaticSea/nightly](https://github.com/LunaticSea/nightly)
-- Alternative for Lavalink (Closed till I have time): [LunaticSea/LunaStream](https://github.com/LunaticSea/LunaStream)
+- Alternative for Lavalink: [LunaStream/LunaStream](https://github.com/LunaStream/LunaStream)
 
 # License
 All submodule repo include source will under AGPL-v3.0 LICENSE
